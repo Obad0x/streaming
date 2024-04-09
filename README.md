@@ -1,2 +1,2 @@
 # streaming
-this is a practice of streaming a video without having to allow the video to finish streaming
+this is a practice of streaming a video without having to allow the video to finish downloading using nodejs
